@@ -1,4 +1,4 @@
-package week6;
+package week7.exercise1;
 
 public class Node {
     String data;

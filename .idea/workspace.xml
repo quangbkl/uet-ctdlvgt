@@ -2,10 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa28a1d6-5e61-4d6c-aef6-6681e6de3a12" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/week6/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week6/BinaryTreeTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week6/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/exercise1/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/exercise1/BinaryTreeTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/exercise1/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/exercise2/BinarySearchTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/exercise2/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/exercise2/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/week3/stack/ArrayStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/week3/stack/ArrayStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/week3/stack/ArrayStackTestDrive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/week3/stack/ArrayStackTestDrive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/week3/stack/StackEmptyException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/week3/stack/StackEmptyException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/week3/stack/StackFullException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/week3/stack/StackFullException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/week4/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/week4/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/week4/SLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/week4/SLL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/week4/SLLTestDrive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/week4/SLLTestDrive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/week5/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/week5/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/week5/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/week5/Queue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/week5/QueueTestDrive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/week5/QueueTestDrive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/week5/SLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/week5/SLL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/week5/SLLEmptyException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/week5/SLLEmptyException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/week6/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/week6/BinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/week6/BinaryTreeTestDrive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/week6/BinaryTreeTestDrive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/week6/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/week6/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week6/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6/BinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week6/BinaryTreeTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6/BinaryTreeTestDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week6/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6/Node.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,15 +44,16 @@
     <session id="1326438687">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.40" value="1" />
           <entry key="project.open.time.50" value="1" />
+          <entry key="project.open.time.52" value="1" />
           <entry key="project.open.time.58" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -57,46 +81,92 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1130618875">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="34" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="34" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2195" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2195" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.spring.boot.run.usages" />
+    </session>
+    <session id="119722338">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.86" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="774" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="774" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open" />
+      <usages-collector id="statistics.file.types.open" />
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/week6/Node.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-              <folding>
-                <element signature="e#237#238#0" expanded="true" />
-                <element signature="e#276#277#0" expanded="true" />
-                <element signature="e#300#301#0" expanded="true" />
-                <element signature="e#319#320#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/week6/BinaryTree.java">
+        <entry file="file://$PROJECT_DIR$/src/week7/exercise2/BinarySearchTestDrive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="799">
-              <caret line="53" column="27" selection-start-line="53" selection-start-column="27" selection-end-line="53" selection-end-column="27" />
-              <folding>
-                <element signature="e#91#92#0" expanded="true" />
-                <element signature="e#123#124#0" expanded="true" />
-                <element signature="e#154#155#0" expanded="true" />
-                <element signature="e#173#174#0" expanded="true" />
-                <element signature="e#216#217#0" expanded="true" />
-                <element signature="e#253#254#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="272">
+              <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/week6/BinaryTreeTestDrive.java">
+        <entry file="file://$PROJECT_DIR$/src/week7/exercise2/BinarySearchTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+            <state relative-caret-position="208">
+              <caret line="88" column="39" lean-forward="true" selection-start-line="88" selection-start-column="39" selection-end-line="88" selection-end-column="39" />
+              <folding>
+                <element signature="e#681#682#0" expanded="true" />
+                <element signature="e#727#728#0" expanded="true" />
+                <element signature="e#1324#1325#0" expanded="true" />
+                <element signature="e#1372#1373#0" expanded="true" />
+                <element signature="e#2088#2089#0" expanded="true" />
+                <element signature="e#2134#2135#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -130,9 +200,19 @@
         <option value="$PROJECT_DIR$/src/week5/SLL.java" />
         <option value="$PROJECT_DIR$/src/week5/Queue.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/week7/Node.java" />
+        <option value="$PROJECT_DIR$/src/week7/Test.java" />
+        <option value="$PROJECT_DIR$/src/week7/BinaryTreeTestDrive.java" />
         <option value="$PROJECT_DIR$/src/week6/Node.java" />
-        <option value="$PROJECT_DIR$/src/week6/BinaryTreeTestDrive.java" />
         <option value="$PROJECT_DIR$/src/week6/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/week6/BinaryTreeTestDrive.java" />
+        <option value="$PROJECT_DIR$/src/week7/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/week7/exercise1/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/week7/exercise1/Node.java" />
+        <option value="$PROJECT_DIR$/src/week7/exercise2/Node.java" />
+        <option value="$PROJECT_DIR$/src/week7/exercise1/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/week7/exercise2/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/week7/exercise2/BinarySearchTestDrive.java" />
       </list>
     </option>
   </component>
@@ -156,7 +236,6 @@
     <panes>
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -173,24 +252,44 @@
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="week6" type="462c0819:PsiDirectoryNode" />
+              <item name="week7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="week7" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="week7" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539757250939" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540374595103" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="week7.exercise2" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code\Java\Algorithms\src\week7" />
       <recent name="C:\Users\QUANG BKL\Desktop\Code\Java\Algorithms\src\week4\stack" />
     </key>
   </component>
@@ -206,13 +305,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BinaryTreeTestDrive">
-    <configuration name="ArrayStackTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week4.stack.ArrayStackTestDrive" />
+  <component name="RunManager" selected="Application.BinarySearchTestDrive">
+    <configuration name="BinarySearchTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week7.exercise2.BinarySearchTestDrive" />
       <module name="Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week4.stack.*" />
+          <option name="PATTERN" value="week7.exercise2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -233,6 +332,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BinaryTreeTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week7.exercise1.BinaryTreeTestDrive" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week7.exercise2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="QueueTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week5.QueueTestDrive" />
       <module name="Algorithms" />
@@ -246,12 +358,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SLLTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week4.SLLTestDrive" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week7.Test" />
       <module name="Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week4.*" />
+          <option name="PATTERN" value="week7.exercise2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -260,17 +372,17 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ArrayStackTestDrive" />
-      <item itemvalue="Application.SLLTestDrive" />
       <item itemvalue="Application.QueueTestDrive" />
       <item itemvalue="Application.BinaryTreeTestDrive" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.BinarySearchTestDrive" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinarySearchTestDrive" />
         <item itemvalue="Application.BinaryTreeTestDrive" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.QueueTestDrive" />
-        <item itemvalue="Application.SLLTestDrive" />
-        <item itemvalue="Application.ArrayStackTestDrive" />
       </list>
     </recent_temporary>
   </component>
@@ -290,12 +402,18 @@
       <workItem from="1539089751069" duration="17000" />
       <workItem from="1539093141638" duration="6897000" />
       <workItem from="1539152308975" duration="101000" />
-      <workItem from="1539754910038" duration="2315000" />
+      <workItem from="1539754910038" duration="2804000" />
+      <workItem from="1539758141178" duration="14000" />
+      <workItem from="1540309706506" duration="4642000" />
+      <workItem from="1540359492503" duration="2680000" />
+      <workItem from="1540368873067" duration="5696000" />
+      <workItem from="1540970723157" duration="152000" />
+      <workItem from="1540973430361" duration="2793000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18025000" />
+    <option name="totallyTimeSpent" value="34491000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -310,7 +428,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27231467" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2980333" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -328,7 +446,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3295082" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -339,6 +457,36 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2806354" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295082" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -437,38 +585,91 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/week7/Test/js.java" />
+    <entry file="file://$PROJECT_DIR$/src/week7/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/week6/Node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#276#277#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="238">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/week6/BinaryTreeTestDrive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        <state relative-caret-position="238">
+          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/week6/BinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="53" column="27" selection-start-line="53" selection-start-column="27" selection-end-line="53" selection-end-column="27" />
+        <state relative-caret-position="225">
+          <caret line="54" column="5" lean-forward="true" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
           <folding>
             <element signature="e#91#92#0" expanded="true" />
             <element signature="e#123#124#0" expanded="true" />
-            <element signature="e#154#155#0" expanded="true" />
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week7/exercise1/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week7/exercise2/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week7/exercise1/BinaryTreeTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week7/exercise1/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week7/exercise2/BinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="88" column="39" lean-forward="true" selection-start-line="88" selection-start-column="39" selection-end-line="88" selection-end-column="39" />
+          <folding>
+            <element signature="e#681#682#0" expanded="true" />
+            <element signature="e#727#728#0" expanded="true" />
+            <element signature="e#1324#1325#0" expanded="true" />
+            <element signature="e#1372#1373#0" expanded="true" />
+            <element signature="e#2088#2089#0" expanded="true" />
+            <element signature="e#2134#2135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week7/exercise2/BinarySearchTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
         </state>
       </provider>
     </entry>

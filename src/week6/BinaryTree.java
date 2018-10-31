@@ -8,10 +8,10 @@ public class BinaryTree {
     }
 
     public BinaryTree() {
-        this(null);
+        this.root = new Node();
     }
 
-    public BinaryTree(int rootValue) {
+    public BinaryTree(String rootValue) {
         this.root = new Node(rootValue);
     }
 
