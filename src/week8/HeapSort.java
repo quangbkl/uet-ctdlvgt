@@ -1,5 +1,7 @@
 package week8;
 
+import java.util.Arrays;
+
 public class HeapSort {
     public static void maxHeapify(int[] arr, int i, int n) {
         int left = 2 * i + 1;
@@ -34,5 +36,42 @@ public class HeapSort {
 
             maxHeapify(arr, 0, i);
         }
+    }
+
+    // Xóa phần tử lớn nhất trong heap
+    public static void removeMaxHeap(int[] arr, int n) {
+        if (n == 0) return;
+        arr[0] = arr[n - 1];
+        maxHeapify(arr, 0, n - 1);
+    }
+
+    public static void insertIncrease(int[] arr, int i, int n) {
+        int parent = (i % 2 == 0) ? i / 2 - 1 : i / 2;
+        if (parent < 0 || arr[i] < arr[parent]) return;
+
+        int temp = arr[i];
+        arr[i] = arr[parent];
+        arr[parent] = temp;
+
+        insertIncrease(arr, parent, n);
+    }
+
+    // Cập nhật một phần tử thứ i nào đó với một giá trị lớn hơn cho trước
+    public static void updateValueHeap(int[] arr, int i, int key, int n) {
+        if (key <= arr[i]) {
+            arr[i] = key;
+            maxHeapify(arr, i, n);
+        } else {
+            arr[i] = key;
+            insertIncrease(arr, i, n);
+        }
+    }
+
+    // Thêm một phần tử với giá trị khóa mới vào trong heap
+    public static int[] pushHeap(int[] arr, int key, int n) {
+        int[] newArr = Arrays.copyOf(arr, n + 1);
+        newArr[newArr.length - 1] = key;
+        insertIncrease(newArr, newArr.length - 1, newArr.length);
+        return newArr;
     }
 }
