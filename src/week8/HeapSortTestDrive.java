@@ -8,7 +8,7 @@ public class HeapSortTestDrive {
 
         HeapSort.buildMaxHeap(arr1, arr1.length);
 //        HeapSort.updateValueHeap(arr1, 4, 100, arr1.length);
-        arr1 = HeapSort.pushHeap(arr1, 56, arr1.length);
+        arr1 = HeapSort.pushHeap(arr1, 100, arr1.length);
         for (int i = 0, length = arr1.length; i < length; i++) {
             System.out.print(arr1[i] + ", ");
         }
